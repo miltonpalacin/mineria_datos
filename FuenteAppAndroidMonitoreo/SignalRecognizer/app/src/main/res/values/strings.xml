@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monitoreo de Actividad (v1.0)</string>
+    <string name="txv_ip">IP/PUERTO (WS):</string>
+    <string name="txv_state">PROCESANDO...</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Captura para MCC607 (v2.4)</string>
+    <string name="txv_action">ACTIVIDAD:</string>
+    <string name="txv_sex">SEXO:</string>
+    <string name="txv_age">EDAD (>30 Adulto):</string>
+    <string name="txv_time">TIEMPO (Seg) + 3s:</string>
+    <string name="txv_freceuncy">FRECUENCIA (Hz):</string>
+    <string name="txv_ip">IP/PUERTO (WS):</string>
+    <string name="txt_name">NOMBRE:</string>
+    <string-array name="spn_list_action">
+        <item>NINGUNO</item>
+        <item>SENTADO</item>
+        <item>PARADO</item>
+        <item>ECHADO</item>
+        <item>CAMINANDO</item>
+        <item>DURMIENDO</item>
+        <item>CORRIENDO</item>
+        <item>SALTANDO</item>
+        <item>VIAJANDO</item>
+        <item>BAILANDO</item>
+        <item>SUBIENDO</item>
+        <item>BAJANDO</item>
+    </string-array>
+
+    <string-array name="spn_list_age">
+        <item>JOVEN</item>
+        <item>ADULTO</item>
+    </string-array>
+
+    <string-array name="spn_list_sex">
+        <item>MUJER</item>
+        <item>VARON</item>
+    </string-array>
+
+</resources>
